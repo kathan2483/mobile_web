@@ -1,0 +1,22 @@
+body {
+    padding-top: 50px;
+}
+
+header {
+    padding: 20px;
+    background-color: #f8f9fa;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+#quantityValue {
+    display: inline-block;
+    margin-left: 10px;
+}
